@@ -1,0 +1,15 @@
+.navBg {
+    background-color: #4aaaa5;
+}
+
+.contentBg {
+    background: url(../images/ripples.png);
+}
+
+.dropT {
+    margin-top: 50%;
+}
+
+textarea {
+    resize: none;
+}
